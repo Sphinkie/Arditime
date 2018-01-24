@@ -1,2 +1,2 @@
 # Arditime
-Arduino vintage music player and radio
+Arduino steampunk timer
