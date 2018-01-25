@@ -1,0 +1,2 @@
+This application is made freely available under the terms of a license based on the new BSD license. 
+This is displayed in the setup program and stored in the License.txt file in the installation folder.
