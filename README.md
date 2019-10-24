@@ -1,6 +1,6 @@
 # Arditime
 Arduino steampunk timer
-![Arditime](medias/P7290047.JPG)
+![Arditime](medias/.JPG)
 
 ## Usage
 Pass your finger along the top of the clock: the Arditime machine will wake up and indicate the choosen duration of the timeout on the dial (in minutes).  
