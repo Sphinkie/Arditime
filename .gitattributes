@@ -9,4 +9,7 @@ images/* linguist-documentation
 medias/* linguist-documentation
 
 *.h linguist-language=C++
-*.ino linguist-language=Arduino
+*.ino linguist-language=C++
+Gonghi.h linguist-generated=true
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
