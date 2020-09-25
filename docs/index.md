@@ -1,6 +1,6 @@
-<img src="images/1.png" width="240" align ="right" alt="cover"/>
-
 # Arditime machine
+
+<img src="images/1.png" width="240" align ="right" />
 
 Arditime est un minuteur longue durée (2 à 60 minutes) qui émet une lumière rouge et un son de gong, à la fin de la minuterie.
 
