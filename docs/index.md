@@ -4,7 +4,10 @@
 
 Arditime est un minuteur longue durée (2 à 60 minutes) qui émet une lumière rouge et un son de gong, à la fin de la minuterie.
 
-Passer avec le doigt sur le contacteur tactile situé sur le dessus, et le faire glisser jusqu'à ce que l'aiguille indique le nombre de minutes souhaité.
+Votre enfant n'a droit quà 20 minutes de jeu vidéo ?
+
+Passez le doigt sur le contacteur tactile situé sur le dessus, et faites-le glisser jusqu'à ce que l'aiguille indique 20 minutes.
+Le minuteur démarre et le gong retentira une fois le délai expiré ! 
 
 -----
 
