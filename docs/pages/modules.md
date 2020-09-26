@@ -38,18 +38,17 @@ Au final, la solution qui fonctionne est un relais double (SPDT : Single Pole -&
   
 <img src="../images/potentiometre.png" width="160" align="right"/> Capteur potentiomètre rectiligne 200mm: Ce capteur ultra-fin auto-collant est un potentiomètre dont la résistance varie (de 100 à 10000 ohms) en fonction de la position de votre doigt (lequel devra exercer une pression sur le capteur). Il est doté d"une sortie sur limande souple (de 2,5 cm de long) avec 3 connecteurs mâles soudables en bout. Largeur capteur: 200 mm. Largeur utile: 7 mm. Ref: P3380. (16€ chez [Lextronix](http://www.lextronic.fr/P3290-capteur-potentiometre-rectiligne-100-mm.html)).
 
-Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations en minutes.
 
+Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations en minutes.
 <img src="../images/cadran-1.png" width="40%" align="left"/> 
 <img src="../images/cadran-2.png" width="40%" align="right"/> 
 
-<p>
------
+### Notes
 
 Pour des raisons pratiques, on a ajouté lors de la réalisation :
 - un regard sur la LED « POWER » de  l"Arduino.
 - deux pins accessibles (RESET et GND) qui permettent de réinitialiser le montage en cas de freeze, en les touchant avec un objet métallique.
-</p>
+
 ------
 
 **[► Home](../index.md)**
