@@ -41,7 +41,7 @@ Au final, la solution qui fonctionne est un relais double (SPDT : Single Pole -&
 Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations en minutes.
 
 <img src="../images/cadran-1.png" width="40%" align="left"/> 
-<img src="../images/cadran-2.png" width="40%" align="left"/> 
+<img src="../images/cadran-2.png" width="40%" align="right"/> 
 
 <p>
 -----
