@@ -22,7 +22,7 @@ Cinq timers sont déclenchés lorsqu&#39;une durée de minuterie a été choisie
 
 Ce son est un fichier MP3 converti en PCM (à l'aide d'utilitaire) et stocké en ROM. Comme on n'a que peu de ROM (32ko), ce fichier ne doit pas être gros: 3 ou 4 secondes max, à 8kb/s.
 
-Il est ensuite joué par l'Arduino, grâce à la librairie PCM sur un HP de 8Ω.
+Il est ensuite joué par l'[Arduino](../ArduinoProMini-pinout.png), grâce à la librairie PCM sur un HP de 8Ω.
 
 _Note : le haut-parleur de 0.8cm grésille dans les aigus : le son est de mauvaise qualité. Avec un haut-parleur de 2.4 cm, le son est meilleur, mais on a un problème de place pour l&#39;intégrer dans le support en bois._
 
@@ -34,14 +34,14 @@ Au final, la solution qui fonctionne est un relais double (SPDT : Single Pole -&
 
 ### Divers
 
-| Image                                                | Description |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="../images/omron-dpdt.png" width="80" text-align="right"/>  | On utilise un relais statique DPDT (Dual-Pole / Dual-Throw). La même bobine pilote deux relais. La documentation du relais est [ici.](../HFD4_relay.pdf). Pour avoir un aperçu  des différents types de relais, voir [ici](https://www.astuces-pratiques.fr/electronique/le-relais-principe-de-fonctionnement). |
-| <img src="../images/potentiometre.png" width="80" align="right"/> | Capteur potentiomètre rectiligne 200mm: Ce capteur ultra-fin auto-collant est un potentiomètre dont la résistance varie (de 100 à 10000 ohms) en fonction de la position de votre doigt (lequel devra exercer une pression sur le capteur). Il est doté d"une sortie sur limande souple (de 2,5 cm de long) avec 3 connecteurs mâles soudables en bout. Largeur capteur: 200 mm. Largeur utile: 7 mm. Ref: P3380. (16€ chez [Lextronix](http://www.lextronic.fr/P3290-capteur-potentiometre-rectiligne-100-mm.html)). |
+<img src="../images/omron-dpdt.png" width="80" align="left"/> On utilise un relais statique DPDT (Dual-Pole / Dual-Throw). La même bobine pilote deux relais. La documentation du relais est [ici.](../HFD4_relay.pdf). Pour avoir un aperçu  des différents types de relais, voir [ici](https://www.astuces-pratiques.fr/electronique/le-relais-principe-de-fonctionnement).
+
+<img src="../images/potentiometre.png" width="80" align="right"/> Capteur potentiomètre rectiligne 200mm: Ce capteur ultra-fin auto-collant est un potentiomètre dont la résistance varie (de 100 à 10000 ohms) en fonction de la position de votre doigt (lequel devra exercer une pression sur le capteur). Il est doté d"une sortie sur limande souple (de 2,5 cm de long) avec 3 connecteurs mâles soudables en bout. Largeur capteur: 200 mm. Largeur utile: 7 mm. Ref: P3380. (16€ chez [Lextronix](http://www.lextronic.fr/P3290-capteur-potentiometre-rectiligne-100-mm.html)).
 
 Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations en minutes.
 
-![](../images/cadran-1.png)![](../images/cadran-2.png)  
+<img src="../images/cadran-1.png" width="40%" align="left"/> 
+<img src="../images/cadran-2.png" width="40%" align="left"/> 
 
 Pour des raisons pratiques, on a ajouté lors de la réalisation :
 - un regard sur la LED « POWER » de  l"Arduino.

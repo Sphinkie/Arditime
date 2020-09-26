@@ -15,7 +15,7 @@ Then, two minutes before the timer expires, the stone will start to glow red.  A
 ## Credits
 
 * Arduino **speaker_pcm** library by Michael Smith, for playing 8-bit PCM audio on pin 11 using pulse-width modulation (PWM).
-* Windows **Wave2Code** application by JCS, which convert WAV audio files into C code for inclusion in embedded systems projects. 
+* Windows **[WaveToCode](http://ccgi.cjseymour.plus.com/wavtocode/wavtocode.htm)** application by JCS, which convert WAV audio files into C code for inclusion in embedded systems projects. 
 * **[KiCAD](http://kicad-pcb.org/)** for electronic design 
 * **[VeeCAD](https://veecad.com/)** for PCB design on veroboards
 

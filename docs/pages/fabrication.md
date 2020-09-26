@@ -3,6 +3,7 @@
 <img src="../images/vumetre.png" alt="vumetre" width="220" />
 <img src="../images/wire.png"    alt="copper wire" width="220" />
 <img src="../images/vernis.png"  alt="vernis" width="220" />
+<img src="../images/arduino-mini.png"  alt="arduino" width="220" />
 
 ### Boitier en bois
 
