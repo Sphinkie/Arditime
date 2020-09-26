@@ -6,8 +6,8 @@
 
 ### Boitier en bois
 
-<img src="../images/wood.png"  alt="wood"           width="220" />
-<img src="../images/dial.png"  alt="dial"           width="220" />
+<img src="../images/wood.png"  alt="wood"  width="220" />
+<img src="../images/dial.png"  alt="dial"  width="220" />
 
 La forme particulière a été obtenue en sculptant des blocs de hêtre (quelques euros chez [Boesner](https://www.boesner.fr/)), et en utilisant des objets de récupération.
 
@@ -17,6 +17,6 @@ La forme particulière a été obtenue en sculptant des blocs de hêtre (quelque
 
 ![sketches](../images/sketches.png)
 
-
+------
 
 **[► Home](../index.md)**
