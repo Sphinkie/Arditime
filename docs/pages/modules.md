@@ -43,12 +43,13 @@ Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations 
 <img src="../images/cadran-1.png" width="40%" align="left"/> 
 <img src="../images/cadran-2.png" width="40%" align="left"/> 
 
+<p>
 -----
 
 Pour des raisons pratiques, on a ajouté lors de la réalisation :
 - un regard sur la LED « POWER » de  l"Arduino.
 - deux pins accessibles (RESET et GND) qui permettent de réinitialiser le montage en cas de freeze, en les touchant avec un objet métallique.
-
+</p>
 ------
 
 **[► Home](../index.md)**
