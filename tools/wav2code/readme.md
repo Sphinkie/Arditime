@@ -6,6 +6,8 @@ Cet utilitaire transforme un fichier **WAV** en un fichier **C**.
 
 [Application website](http://ccgi.cjseymour.plus.com/wavtocode/wavtocode.htm)
 
+[Wave2Code on softpedia]https://www.softpedia.com/get/Multimedia/Audio/Other-AUDIO-Tools/WAVToCode.shtml)
+
 This application enables you to read **WAV audio files** and convert them into **C code** for inclusion in embedded systems projects. 
 I wrote it for an embedded processor project of mine where I wanted to get sound data from my PC, 
 but in a data format suitable for an embedded processor to send to a DAC, that could be included in a C compiler. 
