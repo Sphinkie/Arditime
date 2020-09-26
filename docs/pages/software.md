@@ -18,4 +18,4 @@ Le fichier audio a besoin d'être préparé.
 
 
 
-**[► Home](../index/md)**
+**[► Home](../index.md)**

@@ -19,4 +19,4 @@ Pour la préparation des PCB sur des cartes VERIBOARD, le logiciel gratuit **Vee
 
 
 
-**[► Home](../index/md)**
+**[► Home](../index.md)**

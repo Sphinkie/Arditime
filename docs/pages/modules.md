@@ -39,14 +39,15 @@ Au final, la solution qui fonctionne est un relais double (SPDT : Single Pole -&
 |                                                      | On utilise un relais statique DPDT (Dual-Pole / Dual-Throw). La même bobine pilote deux relais. La documentation du relais est [ici.](../HFD4_relay.pdf). Pour avoir un aperçu  des différents types de relais, voir [ici](https://www.astuces-pratiques.fr/electronique/le-relais-principe-de-fonctionnement). |
 | <img src="../images/potentiometre.png" width="80" /> | Ce capteur ultra-fin auto-collant est un potentiomètre dont la résistance varie (de 100 à 10000 ohms) en fonction de la position de votre doigt (lequel devra exercer une pression sur le capteur). Il est doté d"une sortie sur limande souple (de 2,5 cm de long) avec 3 connecteurs mâles soudables en bout. Largeur capteur: 200 mm. Largeur utile: 7 mm. Ref: P3380. (16€ chez [Lextronix](http://www.lextronic.fr/P3290-capteur-potentiometre-rectiligne-100-mm.html)). |
 
-Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations voulues, en minutes.
+Le cadran du minuteur a été fait sous Adobe Illustrator, avec les graduations en minutes.
+
 ![](../images/cadran-1.png)
 ![](../images/cadran-2.png)  
 
 Pour des raisons pratiques, on a ajouté lors de la réalisation :
 - un regard sur la LED « POWER » de  l"Arduino.
-- Deux pins accessibles (RESET et GND) qui permettent de réinitialiser le montage en cas de freeze, en les touchant avec un objet métallique.
+- deux pins accessibles (RESET et GND) qui permettent de réinitialiser le montage en cas de freeze, en les touchant avec un objet métallique.
 
 
 
-**[► Home](../index/md)**
+**[► Home](../index.md)**

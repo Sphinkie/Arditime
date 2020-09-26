@@ -17,4 +17,4 @@ La forme particulière a été obtenue en sculptant des blocs de hêtre (quelque
 
 
 
-**[► Home](../index/md)**
+**[► Home](../index.md)**

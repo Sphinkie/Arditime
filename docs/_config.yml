@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+show_downloads: false
+
+github:
+  owner_name: David de Lorenzo
+  owner_url: https://sphinkie.github.io/
